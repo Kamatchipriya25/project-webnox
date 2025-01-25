@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/project-webnox/static/css/main.151f7969.css",
+    "main.js": "/github.io/project-webnox/static/js/main.dad41407.js",
+    "index.html": "/github.io/project-webnox/index.html",
+    "main.151f7969.css.map": "/github.io/project-webnox/static/css/main.151f7969.css.map",
+    "main.dad41407.js.map": "/github.io/project-webnox/static/js/main.dad41407.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.151f7969.css",
+    "static/js/main.dad41407.js"
+  ]
+}
